@@ -1,5 +1,4 @@
-alias sbl="/c/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
-cd c:/mito/wizz_tfs/front-end
+﻿alias sbl="/c/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"
 
 if test -f /etc/profile.d/git-sdk.sh
 then
